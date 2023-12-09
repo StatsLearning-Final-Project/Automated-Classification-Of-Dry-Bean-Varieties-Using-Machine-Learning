@@ -1,1 +1,1 @@
-# SLE-Project
+Dry Bean Dataset Classification
